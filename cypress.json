@@ -1,0 +1,7 @@
+{
+  "defaultCommandTimeout": 30000,
+  "baseUrl": "http://todomvc.com/",
+  "chromeWebSecurity": false,
+  "viewportWidth": 1366,
+  "viewportHeight": 768
+}
